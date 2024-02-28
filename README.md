@@ -1,7 +1,7 @@
 # Skin-Lesion-Classification-Using-ML-and-Computer-Vision
 
-Requirements:\n
-cv2==4.9.0
+Requirements:
+cv2==4.9.0//
 numpy==1.23.5
 scikit-learn==1.2.2
 
